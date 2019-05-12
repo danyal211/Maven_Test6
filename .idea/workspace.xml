@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31150dce-ba9f-43b1-b095-bb9819d8fc45" name="Default Changelist" comment="" />
+    <list default="true" id="31150dce-ba9f-43b1-b095-bb9819d8fc45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Maven_Test1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/WebTestSuite/WebAutomation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/WebTestSuite/WebAutomation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-mypkg.LearningProperty.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-mypkg.MyTestNGClass.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-mypkg.testngclass2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-mypkg.testproperty.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/WebAutomation.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mypkg/LearningProperty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mypkg/MyTestNGClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mypkg/testngclass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mypkg/testproperty.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,62 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/MyTestNGClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-              <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/LearningProperty.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1214#1215#0" expanded="true" />
-                <element signature="e#1292#1293#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/testngclass2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/testproperty.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -174,22 +169,14 @@
               <item name="Maven_Test1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Maven_Test1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Maven_Test1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Maven_Test1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Maven_Test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Maven_Test1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mypkg" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -354,6 +341,14 @@
       <option name="presentableId" value="Default" />
       <updated>1556989090649</updated>
     </task>
+    <task id="LOCAL-00001" summary="removed A1 java file">
+      <created>1557657978439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557657978439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -498,6 +493,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed A1 java file" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed A1 java file" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Maven_Test1$MyTestNGClass_setup.ic" NAME="MyTestNGClass.setup Coverage Results" MODIFIED="1557322579629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Maven_Test1$E__Selenium_Maven_Test1_testng_xml.ic" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1557557768661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -517,26 +516,12 @@
     <entry file="file://$PROJECT_DIR$/Maven_Test1.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A1LandingPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/surefire-reports/2019-05-09T05-51-10_787.dump" />
     <entry file="file://$PROJECT_DIR$/target/surefire-reports/TestSuite.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jrt://C:/Program Files/Java/jdk-12.0.1!/java.base/sun/net/www/protocol/https/HttpsClient.class">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/surefire-reports/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -581,25 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/LearningProperty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1214#1215#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/testproperty.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -617,6 +583,39 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/LearningProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/A1LandingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
