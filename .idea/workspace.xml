@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31150dce-ba9f-43b1-b095-bb9819d8fc45" name="Default Changelist" comment="">
+    <list default="true" id="31150dce-ba9f-43b1-b095-bb9819d8fc45" name="Default Changelist" comment="added PDFListener.java and related files to generate Test Reports in PDF">
+      <change afterPath="$PROJECT_DIR$/src/test/java/mypkg/PDFListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_output_pdf/Test_Suite/TestExecutionReport.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Maven_Test1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Maven_Test1-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/WebTestSuite/WebAutomation.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/WebTestSuite/WebAutomation.html" afterDir="false" />
@@ -20,13 +17,7 @@
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-mypkg.testproperty.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-mypkg.testproperty.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/WebTestSuite/testng.xml.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mypkg/LearningProperty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mypkg/MyTestNGClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mypkg/testngclass2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mypkg/testproperty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
+            <state relative-caret-position="1071">
               <caret line="63" selection-start-line="63" selection-end-line="63" />
             </state>
           </provider>
@@ -56,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/MyTestNGClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
+            <state relative-caret-position="119">
               <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding>
                 <element signature="e#117#118#0" expanded="true" />
@@ -78,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/PDFListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="255" column="19" selection-start-line="255" selection-start-column="19" selection-end-line="255" selection-end-column="19" />
+            <state relative-caret-position="238">
+              <caret line="67" column="7" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1817#1818#0" expanded="true" />
@@ -92,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/LearningProperty.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
+            <state relative-caret-position="680">
               <caret line="42" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -172,8 +163,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -389,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557658085911</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added PDFListener.java to generate Test Reports in PDF">
+      <created>1557923275399</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557923275399</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -435,8 +433,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24130106" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24508321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -445,7 +444,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4140753" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4140753" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -453,7 +452,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.29787233" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -537,7 +536,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removed A1 java file" />
     <MESSAGE value="removed test1.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed test1.java" />
+    <MESSAGE value="added PDFListener.java to generate Test Reports in PDF" />
+    <MESSAGE value="added PDFListener.java and related files to generate Test Reports in PDF" />
+    <option name="LAST_COMMIT_MESSAGE" value="added PDFListener.java and related files to generate Test Reports in PDF" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Maven_Test1$MyTestNGClass_setup.ic" NAME="MyTestNGClass.setup Coverage Results" MODIFIED="1557322579629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -583,42 +584,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A1LandingPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/A1LandingPage.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/MyTestNGClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,13 +613,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/LearningProperty.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="1071">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/MyTestNGClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -660,10 +638,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/LearningProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mypkg/PDFListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="255" column="19" selection-start-line="255" selection-start-column="19" selection-end-line="255" selection-end-column="19" />
+        <state relative-caret-position="238">
+          <caret line="67" column="7" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1817#1818#0" expanded="true" />
