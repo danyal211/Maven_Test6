@@ -2,46 +2,46 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-05-12T10:30:04Z" name="WebTestSuite" finished-at="2019-05-12T10:30:30Z" duration-ms="26335">
+  <suite started-at="2019-05-15T12:20:56Z" name="WebTestSuite" finished-at="2019-05-15T12:21:22Z" duration-ms="25435">
     <groups>
     </groups>
-    <test started-at="2019-05-12T10:30:04Z" name="WebAutomation" finished-at="2019-05-12T10:30:30Z" duration-ms="26335">
+    <test started-at="2019-05-15T12:20:56Z" name="WebAutomation" finished-at="2019-05-15T12:21:22Z" duration-ms="25435">
       <class name="mypkg.testngclass2">
-        <test-method signature="testclass()[pri:0, instance:mypkg.testngclass2@446293d]" started-at="2019-05-12T10:30:14Z" name="testclass" finished-at="2019-05-12T10:30:30Z" duration-ms="16431" status="PASS">
+        <test-method signature="testclass()[pri:0, instance:mypkg.testngclass2@741a8937]" started-at="2019-05-15T12:21:04Z" name="testclass" finished-at="2019-05-15T12:21:22Z" duration-ms="18094" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testclass -->
       </class> <!-- mypkg.testngclass2 -->
       <class name="mypkg.MyTestNGClass">
-        <test-method signature="setup1()[pri:0, instance:mypkg.MyTestNGClass@212b5695]" started-at="2019-05-12T10:30:14Z" name="setup1" finished-at="2019-05-12T10:30:14Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup1 -->
-        <test-method signature="setup2()[pri:0, instance:mypkg.MyTestNGClass@212b5695]" started-at="2019-05-12T10:30:14Z" name="setup2" finished-at="2019-05-12T10:30:14Z" duration-ms="1" status="PASS">
+        <test-method signature="setup2()[pri:0, instance:mypkg.MyTestNGClass@74751b3]" started-at="2019-05-15T12:21:04Z" name="setup2" finished-at="2019-05-15T12:21:04Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup2 -->
-        <test-method signature="setup3()[pri:0, instance:mypkg.MyTestNGClass@212b5695]" started-at="2019-05-12T10:30:14Z" name="setup3" finished-at="2019-05-12T10:30:14Z" duration-ms="1" status="PASS">
+        <test-method signature="setup1()[pri:0, instance:mypkg.MyTestNGClass@74751b3]" started-at="2019-05-15T12:21:04Z" name="setup1" finished-at="2019-05-15T12:21:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method signature="setup3()[pri:0, instance:mypkg.MyTestNGClass@74751b3]" started-at="2019-05-15T12:21:04Z" name="setup3" finished-at="2019-05-15T12:21:04Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup3 -->
-        <test-method signature="setup4()[pri:0, instance:mypkg.MyTestNGClass@212b5695]" started-at="2019-05-12T10:30:14Z" name="setup4" finished-at="2019-05-12T10:30:14Z" duration-ms="0" status="PASS">
+        <test-method signature="setup4()[pri:0, instance:mypkg.MyTestNGClass@74751b3]" started-at="2019-05-15T12:21:04Z" name="setup4" finished-at="2019-05-15T12:21:04Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup4 -->
       </class> <!-- mypkg.MyTestNGClass -->
       <class name="mypkg.testproperty">
-        <test-method signature="testProperty()[pri:0, instance:mypkg.testproperty@69997e9d]" started-at="2019-05-12T10:30:30Z" name="testProperty" finished-at="2019-05-12T10:30:30Z" duration-ms="1" status="PASS">
+        <test-method signature="testProperty()[pri:0, instance:mypkg.testproperty@58d75e99]" started-at="2019-05-15T12:21:04Z" name="testProperty" finished-at="2019-05-15T12:21:04Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testProperty -->
       </class> <!-- mypkg.testproperty -->
       <class name="mypkg.LearningProperty">
-        <test-method is-config="true" signature="testProperty2()[pri:0, instance:mypkg.LearningProperty@3514a4c0]" started-at="2019-05-12T10:30:04Z" name="testProperty2" finished-at="2019-05-12T10:30:09Z" duration-ms="5163" status="PASS">
+        <test-method is-config="true" signature="testProperty2()[pri:0, instance:mypkg.LearningProperty@5ba3f27a]" started-at="2019-05-15T12:20:57Z" name="testProperty2" finished-at="2019-05-15T12:21:01Z" duration-ms="4105" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testProperty2 -->
-        <test-method signature="login_success()[pri:0, instance:mypkg.LearningProperty@3514a4c0]" started-at="2019-05-12T10:30:09Z" name="login_success" finished-at="2019-05-12T10:30:14Z" duration-ms="4702" status="PASS">
+        <test-method signature="login_success()[pri:0, instance:mypkg.LearningProperty@5ba3f27a]" started-at="2019-05-15T12:21:01Z" name="login_success" finished-at="2019-05-15T12:21:04Z" duration-ms="2621" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_success -->
