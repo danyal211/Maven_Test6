@@ -22,4 +22,5 @@ public class MyTestNGClass {
     @Test
     public void setup4() { System.out.println("Welcome to maven testng project"); }
 
+
 }

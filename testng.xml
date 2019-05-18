@@ -13,6 +13,7 @@
         <class name="mypkg.testproperty"/>
         <class name="mypkg.MyTestNGClass"/>
         <class name="mypkg.testngclass2"/>
+            <class name="mypkg.testemail"/>
 
             <class name="mypkg.PDFListener"/>
 
